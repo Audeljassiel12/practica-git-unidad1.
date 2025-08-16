@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Logo_UNAN_Le%C3%B3n.svg/800px-Logo_UNAN_Le%C3%B3n.svg.png" alt="UNAN-León" width="150"/>
+  <img src="https://i0.wp.com/www.unanleon.edu.ni/wp-content/uploads/2024/01/Escudo-UNAN-Leon-4.png?resize=1024%2C1024&ssl=1" alt="UNAN-León" width="150"/>
 </p>
 
 # **Universidad Nacional Autónoma de Nicaragua**  
