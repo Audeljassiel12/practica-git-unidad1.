@@ -10,18 +10,17 @@
 
 <p align="center">
   <h3><b>Carrera:</b> Ingeniería en Tecnologías de la Información, Cuarto año Sabatino</h3>
-  <h3><b>Componente:</b> Investigación II</h3>
+
 </p>
 
 ---
 
-## **Tema:**
-Desarrollo de una **aplicación web cliente-servidor** para el seguimiento y fidelización de clientes en pequeñas y medianas empresas del municipio de **Somoto**, departamento de **Madriz**, en el periodo de **agosto del año 2025**.
+
 
 ---
 
 ### **Docente:**
-**Joel Torrez**
+**Douglas**
 
 ---
 
